@@ -1,0 +1,604 @@
+[
+  {
+    "Event": "Page.frameStartedLoading",
+    "FrameId": "ABF775A2E21A11F5A8B8E9680F417712"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/index.htm",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/index.htm",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/template.css;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/style.css;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/clear.gif;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/logo.gif;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/template.css;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/style.css;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/main-bg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/topbg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/header-main.jpg;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-hover.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/home-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/aboutus-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/contact-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bodybg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/button-bgr.png",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/atmhand.jpg",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet2-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/sky-color-bg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/icon2.jpg",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/icon4.jpg",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/footerbg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/clear.gif;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/main-bg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/button-bgr.png",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/footerbg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/logo.gif;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet2-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/atmhand.jpg",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/sky-color-bg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/icon4.jpg",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/aboutus-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/icon2.jpg",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/home-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/contact-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bodybg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/topbg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-hover.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/header-main.jpg;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/favicon.ico",
+    "Method": "GET"
+  },
+  {
+    "Event": "Page.frameStartedLoading",
+    "FrameId": "ABF775A2E21A11F5A8B8E9680F417712"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/register.htm;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/favicon.ico",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/register.htm;jsessionid=6BBD240D35FF7529597E79CB3C7DF591",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/template.css",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/style.css",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/clear.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/logo.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/style.css",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/template.css",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/clear.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/main-bg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/main-bg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/topbg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/topbg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/header-main.jpg",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-hover.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-hover.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/home-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/home-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/aboutus-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/aboutus-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/contact-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/contact-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bodybg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bodybg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/button-bgr.png",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/button-bgr.png",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/sky-color-bg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/sky-color-bg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/footerbg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/footerbg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/logo.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/header-main.jpg",
+    "Status": "200"
+  },
+  {
+    "Event": "Page.frameStartedLoading",
+    "FrameId": "ABF775A2E21A11F5A8B8E9680F417712"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/register.htm",
+    "Method": "POST"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/register.htm",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/template.css",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/template.css",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/style.css",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/style.css",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/clear.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/clear.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/logo.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/logo.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/main-bg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/main-bg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/topbg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/topbg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/header-main.jpg",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/header-main.jpg",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-hover.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-hover.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bullet-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/home-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/home-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/aboutus-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/aboutus-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/contact-normal.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/contact-normal.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/bodybg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/bodybg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/button-bgr.png",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/button-bgr.png",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/sky-color-bg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/sky-color-bg.gif",
+    "Status": "200"
+  },
+  {
+    "Event": "Network.requestWillBeSent",
+    "Url": "https://parabank.parasoft.com/parabank/images/footerbg.gif",
+    "Method": "GET"
+  },
+  {
+    "Event": "Network.responseReceived",
+    "Url": "https://parabank.parasoft.com/parabank/images/footerbg.gif",
+    "Status": "200"
+  }
+]

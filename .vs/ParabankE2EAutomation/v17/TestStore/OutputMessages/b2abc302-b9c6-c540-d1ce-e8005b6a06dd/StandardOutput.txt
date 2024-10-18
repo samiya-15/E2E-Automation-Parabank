@@ -1,0 +1,138 @@
+Browser Setup Complete
+Given I am on the registration page
+https://parabank.parasoft.com/parabank/index.htm
+-> done: RegistrationSteps.GivenIAmOnTheRegistrationPage() (3.2s)
+When I fill out the registration form with the same details
+-> done: RegistrationSteps.WhenIFillOutTheRegistrationFormWithTheSameDetails() (0.8s)
+And I submit the registration form
+-> done: RegistrationSteps.WhenISubmitTheRegistrationForm() (0.4s)
+Then I should see an error message for duplicate registration
+-> done: RegistrationSteps.ThenIShouldSeeAnErrorMessageForDuplicateRegistration() (0.0s)
+When I capture all network requests
+Frame started loading. Frame ID: ABF775A2E21A11F5A8B8E9680F417712
+Captured Request: GET https://parabank.parasoft.com/parabank/index.htm
+Captured Response: 200 https://parabank.parasoft.com/parabank/index.htm
+Captured Request: GET https://parabank.parasoft.com/parabank/template.css;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Request: GET https://parabank.parasoft.com/parabank/style.css;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Request: GET https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Request: GET https://parabank.parasoft.com/parabank/images/clear.gif;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Request: GET https://parabank.parasoft.com/parabank/images/logo.gif;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Response: 200 https://parabank.parasoft.com/parabank/template.css;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Response: 200 https://parabank.parasoft.com/parabank/style.css;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Response: 200 https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Request: GET https://parabank.parasoft.com/parabank/images/main-bg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/topbg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/header-main.jpg;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bullet-hover.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bullet-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/home-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/aboutus-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/contact-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bodybg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/button-bgr.png
+Captured Request: GET https://parabank.parasoft.com/parabank/images/atmhand.jpg
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bullet2-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/sky-color-bg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/icon2.jpg
+Captured Request: GET https://parabank.parasoft.com/parabank/images/icon4.jpg
+Captured Request: GET https://parabank.parasoft.com/parabank/images/footerbg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/clear.gif;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/main-bg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/button-bgr.png
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/footerbg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/logo.gif;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bullet2-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/atmhand.jpg
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/sky-color-bg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bullet-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/icon4.jpg
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/aboutus-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/icon2.jpg
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/home-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/contact-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bodybg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/topbg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bullet-hover.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/header-main.jpg;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Request: GET https://parabank.parasoft.com/favicon.ico
+Frame started loading. Frame ID: ABF775A2E21A11F5A8B8E9680F417712
+Captured Request: GET https://parabank.parasoft.com/parabank/register.htm;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Response: 200 https://parabank.parasoft.com/favicon.ico
+Captured Response: 200 https://parabank.parasoft.com/parabank/register.htm;jsessionid=6BBD240D35FF7529597E79CB3C7DF591
+Captured Request: GET https://parabank.parasoft.com/parabank/template.css
+Captured Request: GET https://parabank.parasoft.com/parabank/style.css
+Captured Request: GET https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js
+Captured Request: GET https://parabank.parasoft.com/parabank/images/clear.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/logo.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/style.css
+Captured Response: 200 https://parabank.parasoft.com/parabank/template.css
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/clear.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js
+Captured Request: GET https://parabank.parasoft.com/parabank/images/main-bg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/main-bg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/topbg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/topbg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/header-main.jpg
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bullet-hover.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bullet-hover.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bullet-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bullet-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/home-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/home-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/aboutus-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/aboutus-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/contact-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/contact-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bodybg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bodybg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/button-bgr.png
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/button-bgr.png
+Captured Request: GET https://parabank.parasoft.com/parabank/images/sky-color-bg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/sky-color-bg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/footerbg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/footerbg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/logo.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/header-main.jpg
+Frame started loading. Frame ID: ABF775A2E21A11F5A8B8E9680F417712
+Captured Request: POST https://parabank.parasoft.com/parabank/register.htm
+Captured Response: 200 https://parabank.parasoft.com/parabank/register.htm
+Captured Request: GET https://parabank.parasoft.com/parabank/template.css
+Captured Response: 200 https://parabank.parasoft.com/parabank/template.css
+Captured Request: GET https://parabank.parasoft.com/parabank/style.css
+Captured Response: 200 https://parabank.parasoft.com/parabank/style.css
+Captured Request: GET https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js
+Captured Response: 200 https://parabank.parasoft.com/parabank/webjars/jquery/3.7.1/jquery.min.js
+Captured Request: GET https://parabank.parasoft.com/parabank/images/clear.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/clear.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/logo.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/logo.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/main-bg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/main-bg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/topbg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/topbg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/header-main.jpg
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/header-main.jpg
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bullet-hover.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bullet-hover.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bullet-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bullet-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/home-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/home-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/aboutus-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/aboutus-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/contact-normal.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/contact-normal.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/bodybg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/bodybg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/button-bgr.png
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/button-bgr.png
+Captured Request: GET https://parabank.parasoft.com/parabank/images/sky-color-bg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/sky-color-bg.gif
+Captured Request: GET https://parabank.parasoft.com/parabank/images/footerbg.gif
+Captured Response: 200 https://parabank.parasoft.com/parabank/images/footerbg.gif
+Network events saved to: E:\HAIDER_WS\TEST_WS\ParabankE2EAutomation\ParabankE2EAutomation\bin\Debug\netcoreapp3.1\networkRequests.json
+-> done: NetworkCaptureSteps.WhenICaptureAllNetworkRequests() (0.0s)
+Then I save all captured network requests to a JSON file
+Network events saved to: E:\HAIDER_WS\TEST_WS\ParabankE2EAutomation\ParabankE2EAutomation\bin\Debug\netcoreapp3.1\networkRequests.json
+-> done: NetworkCaptureSteps.ThenISaveAllCapturedNetworkRequestsToAJsonFile() (0.0s)
+Browser Closed

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\features\\api_registrationlogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\features\\api_registrationlogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\api_stepdefinitions\\parabankstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\api_stepdefinitions\\parabankstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\support\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\support\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\features\\registrationlogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\features\\registrationlogin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\hooks\\apihooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\hooks\\apihooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\stepdefinitions\\registrationsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\stepdefinitions\\registrationsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\stepdefinitions\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\stepdefinitions\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\stepdefinitions\\mobileresolutionsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\stepdefinitions\\mobileresolutionsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\stepdefinitions\\networkcapturesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\stepdefinitions\\networkcapturesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|e:\\haider_ws\\test_ws\\parabanke2eautomation\\parabanke2eautomation\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7829F658-4A82-4C3D-BC4D-2AAD34801811}|ParabankE2EAutomation\\ParabankE2EAutomation.csproj|solutionrelative:parabanke2eautomation\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 193,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Support\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\Support\\ApiHelper.cs",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Support\\ApiHelper.cs",
+              "RelativeToolTip": "ParabankE2EAutomation\\Support\\ApiHelper.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:40:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationSteps.cs",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\StepDefinitions\\RegistrationSteps.cs",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\StepDefinitions\\RegistrationSteps.cs",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\StepDefinitions\\RegistrationSteps.cs",
+              "RelativeToolTip": "ParabankE2EAutomation\\StepDefinitions\\RegistrationSteps.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:43:01.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MobileResolutionSteps.cs",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\StepDefinitions\\MobileResolutionSteps.cs",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\StepDefinitions\\MobileResolutionSteps.cs",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\StepDefinitions\\MobileResolutionSteps.cs",
+              "RelativeToolTip": "ParabankE2EAutomation\\StepDefinitions\\MobileResolutionSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:34:47.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginSteps.cs",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\StepDefinitions\\LoginSteps.cs",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\StepDefinitions\\LoginSteps.cs",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\StepDefinitions\\LoginSteps.cs",
+              "RelativeToolTip": "ParabankE2EAutomation\\StepDefinitions\\LoginSteps.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:34:44.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".env",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\.env",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\.env",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\.env",
+              "RelativeToolTip": "ParabankE2EAutomation\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T15:30:23.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParabankStepDefinitions.cs",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\API_StepDefinitions\\ParabankStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\API_StepDefinitions\\ParabankStepDefinitions.cs",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\API_StepDefinitions\\ParabankStepDefinitions.cs",
+              "RelativeToolTip": "ParabankE2EAutomation\\API_StepDefinitions\\ParabankStepDefinitions.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:25:38.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API_RegistrationLogin.feature",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Features\\API_RegistrationLogin.feature",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\Features\\API_RegistrationLogin.feature",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Features\\API_RegistrationLogin.feature",
+              "RelativeToolTip": "ParabankE2EAutomation\\Features\\API_RegistrationLogin.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-17T15:25:03.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiHooks.cs",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Hooks\\ApiHooks.cs",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\Hooks\\ApiHooks.cs",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Hooks\\ApiHooks.cs",
+              "RelativeToolTip": "ParabankE2EAutomation\\Hooks\\ApiHooks.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:18:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\Hooks\\Hooks.cs",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "ParabankE2EAutomation\\Hooks\\Hooks.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:11:07.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationLogin.feature",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Features\\RegistrationLogin.feature",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\Features\\RegistrationLogin.feature",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\Features\\RegistrationLogin.feature",
+              "RelativeToolTip": "ParabankE2EAutomation\\Features\\RegistrationLogin.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-17T14:49:36.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NetworkCaptureSteps.cs",
+              "DocumentMoniker": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\StepDefinitions\\NetworkCaptureSteps.cs",
+              "RelativeDocumentMoniker": "ParabankE2EAutomation\\StepDefinitions\\NetworkCaptureSteps.cs",
+              "ToolTip": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\StepDefinitions\\NetworkCaptureSteps.cs",
+              "RelativeToolTip": "ParabankE2EAutomation\\StepDefinitions\\NetworkCaptureSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:49:02.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\ParabankE2EAutomation.csproj": {}
+  },
+  "projects": {
+    "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\ParabankE2EAutomation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\ParabankE2EAutomation.csproj",
+        "projectName": "ParabankE2EAutomation",
+        "projectPath": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\ParabankE2EAutomation.csproj",
+        "packagesPath": "C:\\Users\\mhaid\\.nuget\\packages\\",
+        "outputPath": "E:\\HAIDER_WS\\TEST_WS\\ParabankE2EAutomation\\ParabankE2EAutomation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mhaid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.1, )"
+            },
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "DotNetSeleniumExtras.PageObjects.Core": {
+              "target": "Package",
+              "version": "[4.14.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Gherkin": {
+              "target": "Package",
+              "version": "[28.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.23.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.23.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[127.0.6533.7200, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.4, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

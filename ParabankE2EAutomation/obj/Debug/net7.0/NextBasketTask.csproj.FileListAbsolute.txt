@@ -1,0 +1,16 @@
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\NextBasketTask.csproj.AssemblyReference.cache
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\NextBasketTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\NextBasketTask.AssemblyInfoInputs.cache
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\NextBasketTask.AssemblyInfo.cs
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\NextBasketTask.csproj.CoreCompileInputs.cache
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\bin\Debug\net7.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\bin\Debug\net7.0\NextBasketTask.deps.json
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\bin\Debug\net7.0\NextBasketTask.dll
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\bin\Debug\net7.0\NextBasketTask.pdb
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\NextBasketTask.dll
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\refint\NextBasketTask.dll
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\NextBasketTask.pdb
+E:\HAIDER_WS\TEST_WS\NextBasketTask\NextBasketTask\obj\Debug\net7.0\ref\NextBasketTask.dll
